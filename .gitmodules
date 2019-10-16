@@ -1,0 +1,6 @@
+[submodule "rest-server-java"]
+	path = rest-server-java
+	url = https://github.com/Guergeiro/rest-server-java.git
+[submodule "jdbc-rmi-server"]
+	path = jdbc-rmi-server
+	url = https://github.com/Guergeiro/jdbc-rmi-server.git
